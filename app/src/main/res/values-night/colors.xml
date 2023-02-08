@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#1C1C1E</color>
+    <color name="texPrimary">#D81B60</color>
+    <color name="textSecondary">#039BE5</color>
+
+    <color name="TP">#FFFFFF</color>
+    <color name="CARD">#1C1C1E</color>
+    <color name="BG">#000000</color>
+
+</resources>
